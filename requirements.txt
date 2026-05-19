@@ -1,7 +1,3 @@
 fastapi
 uvicorn
-torch
-timm
-opencv-python-headless
-numpy
 python-multipart
