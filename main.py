@@ -18,9 +18,9 @@ app.add_middleware(
 )
 
 # AI Model yahan load hoga (Phase 1 se)
-print("Model Load ho raha hai... Thoda wait karein...")
-model = load_saved_model("models/best_model.pth")
-print("Model Successfully Load Ho Gaya! 🚀")
+# print("Model Load ho raha hai... Thoda wait karein...")
+# model = load_saved_model("models/best_model.pth")
+# print("Model Successfully Load Ho Gaya! 🚀")
 
 # OpenCV Severity Calculator (Phase 2 ka part)
 def calculate_leaf_severity(image_bytes):
